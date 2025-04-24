@@ -1,0 +1,20 @@
+IF205|Rekayasa Perangkat Lunak|3|25|0|
+IF101|Algoritma dan Pemrograman|3|30|0|
+IF204|Aljabar Linear|3|20|0|
+IF104|Fisika Dasar|3|20|0|
+IF203|Sistem Digital|3|20|0|
+IF302|Jaringan Komputer|3|25|0|IF203
+IF202|Kalkulus II|3|25|0|IF102
+IF102|Kalkulus I|3|25|1|
+IF201|Struktur Data|3|30|0|IF101
+IF105|Bahasa Inggris|2|25|0|
+IF403|Kecerdasan Buatan|3|20|0|IF303
+IF405|Statistika|3|25|1|
+IF404|Interaksi Manusia dan Komputer|3|20|0|
+IF305|Metode Numerik|3|25|0|
+IF402|Grafika Komputer|3|25|0|IF204
+IF304|Sistem Operasi|3|20|0|
+IF303|Pemrograman Berbasis Objek|3|20|0|IF101
+IF301|Basis Data|3|30|0|IF201
+IF401|Pemrograman Web|3|30|0|IF301
+IF103|Pengantar Teknologi Informasi|2|20|0|
